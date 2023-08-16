@@ -6,6 +6,8 @@ public class FireTest1 {
 		System.out.println("Lake Tahoe");
 		System.out.println("Lake Tahoe");
 		System.out.println("Lake Tahoe");
+		System.out.println("Lake Tahoe");
+		System.out.println("Lake Tahoe");
 
 	}
 
